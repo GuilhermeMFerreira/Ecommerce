@@ -20,7 +20,7 @@ Além disso, o projeto realiza validações e retorna informações sobre o resu
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 O sistema possui as seguintes funcionalidades:
 
